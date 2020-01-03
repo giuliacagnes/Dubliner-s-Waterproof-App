@@ -13,10 +13,10 @@ This is a python application that checks the weather in Dublin and when you wake
 - Python
 
 ### Clone the repository
-
+```
 $ git clone git@github.com:giuliacagnes/Dubliner-s-Waterproof-App.git
 $ cd Dubliner-s-Waterproof-App/
-
+```
 ### Author
 Giulia Cagnes
 
